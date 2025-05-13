@@ -1,0 +1,352 @@
+[
+  {
+    "name": "Hammer",
+    "price": 12.99,
+    "aisle": "A12",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/estwing-hammers-e3-16c-64_1000.jpg",
+    "discount": 0.2
+  },
+  {
+    "name": "Screwdriver",
+    "price": 8.99,
+    "aisle": "A15",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/klein-tools-screwdrivers-32305-64_1000.jpg",
+    "discount": 0
+  },
+  {
+    "name": "Nails",
+    "price": 4.99,
+    "aisle": "A18",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/grip-rite-nails-16d-64_1000.jpg",
+    "discount": 0.25
+  },
+  {
+    "name": "Drill",
+    "price": 89.99,
+    "aisle": "B45",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/dewalt-drills-dcd771c2-64_1000.jpg",
+    "discount": 0.25
+  },
+  {
+    "name": "Saw",
+    "price": 79.99,
+    "aisle": "B48",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/skil-saws-5280-01-64_1000.jpg",
+    "discount": 0.25
+  },
+  {
+    "name": "Tape Measure",
+    "price": 7.99,
+    "aisle": "A14",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/stanley-tape-measures-33-425-64_1000.jpg",
+    "discount": 0
+  },
+  {
+    "name": "Utility Knife",
+    "price": 5.99,
+    "aisle": "A16",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/stanley-utility-knives-10-499-64_1000.jpg",
+    "discount": 0.2
+  },
+  {
+    "name": "Safety Glasses",
+    "price": 3.99,
+    "aisle": "A20",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/dewalt-safety-glasses-dpg82-11-64_1000.jpg",
+    "discount": 0
+  },
+  {
+    "name": "Work Gloves",
+    "price": 9.99,
+    "aisle": "A20",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/mechanix-wear-gloves-mpg-02-64_1000.jpg",
+    "discount": 0
+  },
+  {
+    "name": "Paint Roller",
+    "price": 12.99,
+    "aisle": "B55",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/wooster-paint-rollers-1839-64_1000.jpg",
+    "discount": 0
+  },
+  {
+    "name": "Paint Tray",
+    "price": 3.99,
+    "aisle": "B55",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/wooster-paint-trays-9-64_1000.jpg",
+    "discount": 0
+  },
+  {
+    "name": "Extension Cord",
+    "price": 19.99,
+    "aisle": "B42",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/southwire-extension-cords-28827899-64_1000.jpg",
+    "discount": 0
+  },
+  {
+    "name": "Power Strip",
+    "price": 14.99,
+    "aisle": "B42",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/leviton-power-strips-47605-5w-64_1000.jpg",
+    "discount": 0
+  },
+  {
+    "name": "Level",
+    "price": 15.99,
+    "aisle": "A13",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/empire-levels-e70-24-64_1000.jpg",
+    "discount": 0
+  },
+  {
+    "name": "Stud Finder",
+    "price": 19.99,
+    "aisle": "A13",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/zircon-stud-finders-ms-64_1000.jpg",
+    "discount": 0.1
+  },
+  {
+    "name": "Plywood",
+    "price": 29.99,
+    "aisle": "B60",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/columbia-forest-products-plywood-1232-64_1000.jpg",
+    "discount": 0.2
+  },
+  {
+    "name": "2x4",
+    "price": 3.99,
+    "aisle": "B60",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/2x4-8-ft-prime-whitewood-stud-1000072894-64_1000.jpg",
+    "discount": 0
+  },
+  {
+    "name": "Drywall",
+    "price": 12.99,
+    "aisle": "B58",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/ultralight-drywall-1000072894-64_1000.jpg",
+    "discount": 0.25
+  },
+  {
+    "name": "Insulation",
+    "price": 39.99,
+    "aisle": "B56",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/owens-corning-insulation-1000072894-64_1000.jpg",
+    "discount": 0.2
+  },
+  {
+    "name": "Paint",
+    "price": 34.99,
+    "aisle": "B55",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/behr-premium-plus-paint-1000072894-64_1000.jpg",
+    "discount": 0.2
+  },
+  {
+    "name": "Caulk",
+    "price": 4.99,
+    "aisle": "B58",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/dap-alex-plus-caulk-1000072894-64_1000.jpg",
+    "discount": 0.25
+  },
+  {
+    "name": "Screws",
+    "price": 5.99,
+    "aisle": "A18",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/deck-screws-1000072894-64_1000.jpg",
+    "discount": 0
+  },
+  {
+    "name": "Ladder",
+    "price": 89.99,
+    "aisle": "B50",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/werner-ladders-6206-64_1000.jpg",
+    "discount": 0
+  },
+  {
+    "name": "Shop Vac",
+    "price": 69.99,
+    "aisle": "B52",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/ridgid-shop-vacuums-wd4070-64_1000.jpg",
+    "discount": 0.1
+  },
+  {
+    "name": "Work Light",
+    "price": 24.99,
+    "aisle": "B42",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/stanley-work-lights-sl10leds-64_1000.jpg",
+    "discount": 0.1
+  },
+  {
+    "name": "Tool Box",
+    "price": 29.99,
+    "aisle": "A21",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/dewalt-tool-boxes-dwst17804-64_1000.jpg",
+    "discount": 0
+  },
+  {
+    "name": "Square",
+    "price": 8.99,
+    "aisle": "A14",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/swanson-squares-s0101-64_1000.jpg",
+    "discount": 0.25
+  },
+  {
+    "name": "Chisel",
+    "price": 22.99,
+    "aisle": "A16",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/irwin-chisels-10507932-64_1000.jpg",
+    "discount": 0
+  },
+  {
+    "name": "Saw Horse",
+    "price": 39.99,
+    "aisle": "B50",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/toughbuilt-saw-horses-2200-64_1000.jpg",
+    "discount": 0.25
+  },
+  {
+    "name": "Drill Bits",
+    "price": 19.99,
+    "aisle": "B45",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/dewalt-drill-bits-dw1361-64_1000.jpg",
+    "discount": 0.1
+  },
+  {
+    "name": "Safety Harness",
+    "price": 49.99,
+    "aisle": "A20",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/klein-tools-safety-harnesses-5119-64_1000.jpg",
+    "discount": 0
+  },
+  {
+    "name": "Hard Hat",
+    "price": 12.99,
+    "aisle": "A20",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/milwaukee-hard-hats-48-73-1900-64_1000.jpg",
+    "discount": 0.2
+  },
+  {
+    "name": "Knee Pads",
+    "price": 19.99,
+    "aisle": "A20",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/no-cry-knee-pads-1000-64_1000.jpg",
+    "discount": 0.25
+  },
+  {
+    "name": "Paint Sprayer",
+    "price": 129.99,
+    "aisle": "B55",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/wagner-paint-sprayers-0529010-64_1000.jpg",
+    "discount": 0
+  },
+  {
+    "name": "Paint Mixer",
+    "price": 14.99,
+    "aisle": "B55",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/red-devil-paint-mixers-0700-64_1000.jpg",
+    "discount": 0.1
+  },
+  {
+    "name": "Concrete Mix",
+    "price": 4.99,
+    "aisle": "B54",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/quikrete-concrete-mix-1000072894-64_1000.jpg",
+    "discount": 0
+  },
+  {
+    "name": "Grout",
+    "price": 12.99,
+    "aisle": "B57",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/custom-building-products-grout-1000072894-64_1000.jpg",
+    "discount": 0
+  },
+  {
+    "name": "Tile",
+    "price": 1.99,
+    "aisle": "B57",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/ceramic-tile-1000072894-64_1000.jpg",
+    "discount": 0.1
+  },
+  {
+    "name": "Pipe",
+    "price": 8.99,
+    "aisle": "B43",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/pvc-pipe-1000072894-64_1000.jpg",
+    "discount": 0
+  },
+  {
+    "name": "Wire",
+    "price": 24.99,
+    "aisle": "B42",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/romex-wire-1000072894-64_1000.jpg",
+    "discount": 0
+  },
+  {
+    "name": "Circuit Breaker",
+    "price": 9.99,
+    "aisle": "B42",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/circuit-breaker-1000072894-64_1000.jpg",
+    "discount": 0
+  },
+  {
+    "name": "Light Bulb",
+    "price": 2.99,
+    "aisle": "B42",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/led-light-bulb-1000072894-64_1000.jpg",
+    "discount": 0.2
+  },
+  {
+    "name": "Door",
+    "price": 89.99,
+    "aisle": "B59",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/interior-door-1000072894-64_1000.jpg",
+    "discount": 0
+  },
+  {
+    "name": "Window",
+    "price": 129.99,
+    "aisle": "B59",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/vinyl-window-1000072894-64_1000.jpg",
+    "discount": 0
+  },
+  {
+    "name": "Roofing Shingles",
+    "price": 29.99,
+    "aisle": "B53",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/roofing-shingles-1000072894-64_1000.jpg",
+    "discount": 0.1
+  },
+  {
+    "name": "Gutter",
+    "price": 4.99,
+    "aisle": "B53",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/vinyl-gutter-1000072894-64_1000.jpg",
+    "discount": 0
+  },
+  {
+    "name": "Fence Post",
+    "price": 12.99,
+    "aisle": "B51",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/wood-fence-post-1000072894-64_1000.jpg",
+    "discount": 0
+  },
+  {
+    "name": "Deck Board",
+    "price": 8.99,
+    "aisle": "B51",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/trex-deck-board-1000072894-64_1000.jpg",
+    "discount": 0.25
+  },
+  {
+    "name": "Garden Hose",
+    "price": 19.99,
+    "aisle": "B44",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/flexzilla-garden-hose-1000072894-64_1000.jpg",
+    "discount": 0
+  },
+  {
+    "name": "Sprinkler",
+    "price": 9.99,
+    "aisle": "B44",
+    "imageUrl": "https://images.homedepot-static.com/productImages/0b1c0b0c-0b1c-0b1c-0b1c-0b1c0b1c0b1c/svn/oscillating-sprinkler-1000072894-64_1000.jpg",
+    "discount": 0.1
+  }
+]
